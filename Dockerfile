@@ -1,1 +1,1 @@
-FROM docker.io/kindest/node:v1.29.2
+FROM docker.io/kindest/node:v1.28.9
